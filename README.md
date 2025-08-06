@@ -23,7 +23,7 @@ git clone https://github.com/yassinos26/personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [gmail](yassine.250mellouli@gmail.com).
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/yassine-mellouli-019384281/).
 
 ## License
 
